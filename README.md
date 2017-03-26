@@ -12,13 +12,13 @@ The worker takes accidentally one e/m and mounts it to the device.
 Learning the likelihood that the mounted and working failsafe until the end of
 the warranty period e/m is delivered from first, second and the third manufacturers.
 Determine the parameters by the following formulas:
-      k = | 14 - V |, where V is the variant number
-      p1 = 0.99 - k / 100
-      p2 = 0.9 - k / 100
-      p3 = 0.85 - k / 100
-      N1 = 5 + k
-      N2 = 20 - k
-      N3 = 25 - k
+      k = | 14 - V |, where V is the variant number; 
+      p1 = 0.99 - k / 100; 
+      p2 = 0.9 - k / 100; 
+      p3 = 0.85 - k / 100; 
+      N1 = 5 + k; 
+      N2 = 20 - k; 
+      N3 = 25 - k.
 
 Enjoy lerning new things! Prometheus111 helps you with your studying!
 https://github.com/Prometheus111 
