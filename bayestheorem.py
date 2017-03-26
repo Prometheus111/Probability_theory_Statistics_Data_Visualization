@@ -64,3 +64,5 @@ print('\nThe probability P(A|B) of operation of electric motors before\
       \nby 1st manufacturing plant P(A1|B) =', PA1B, '\
       \nby 2nd manufacturing plant P(A2|B) =', PA2B, '\
       \nby 3rd manufacturing plant P(A3|B) =', PA3B)
+# Enjoy lerning new things! Prometheus111 helps you with your studying!
+# https://github.com/Prometheus111 
