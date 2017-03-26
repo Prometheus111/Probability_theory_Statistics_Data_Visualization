@@ -1,5 +1,5 @@
-# bayestheorem
-# Prometheus111
+# The Bayes Theorem
+# by Prometheus111
 
 Bayes Theorem (the Bayes formula) / Solution of the problem / Elementary probability theory 
 
