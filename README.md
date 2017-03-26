@@ -21,4 +21,4 @@ N2 = 20 - k;
 N3 = 25 - k.
 
 Enjoy lerning new things! Prometheus111 helps you with your studying!
-https://github.com/Prometheus111 
+# https://github.com/Prometheus111 
