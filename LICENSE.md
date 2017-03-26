@@ -1,7 +1,7 @@
-# bayestheorem
-# Prometheus111
+# The Bayes Theorem. LICENSE
+# by Prometheus111
 
 For free using. 
 
-Enjoy lerning new things! Prometheus111 helps you with your studying!
+Enjoy learning new things! Prometheus111 helps you with your studying!
 https://github.com/Prometheus111 
