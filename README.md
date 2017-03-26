@@ -20,5 +20,5 @@ N1 = 5 + k;
 N2 = 20 - k; 
 N3 = 25 - k.
 
-Enjoy lerning new things! Prometheus111 helps you with your studying!
+Enjoy learning new things! Prometheus111 helps you with your studying!
 # https://github.com/Prometheus111 
