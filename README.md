@@ -52,5 +52,5 @@ N3 = 25 - k. \
 Скачать репозиторий: https://github.com/Prometheus111/TheBayesTheorem/archive/master.zip \
 Скачать исходный код: https://github.com/Prometheus111/TheBayesTheorem/blob/master/bayestheorem.py \
 \
-Enjoy learning new things! Prometheus111 helps you with your studying!
+Наслаждайтесь изучением новых вещей! Prometheus111 поможет Вам в учёбе!
 # https://github.com/Prometheus111 
