@@ -1,6 +1,6 @@
-# The Bayes Theorem (Python) by Prometheus111
+# Probability theory, Statistics, Data Visualization (C, C++, Python) by Prometheus111
 
-Bayes Theorem (the Bayes formula) / Solution of the problem / Elementary probability theory \
+### The Bayes Theorem (Python)
 \
 Terms of the Task: \
 The electric motor (e/m) is connected to the device in the assembly shop. \
